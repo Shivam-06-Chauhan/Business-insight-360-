@@ -67,10 +67,10 @@ To create a centralized analytics hub that delivers a 360° view of the business
 
 ## Business Value Derived
 
-## - Decision Speed: Leaders can act faster with consolidated insights.
+ - Decision Speed: Leaders can act faster with consolidated insights.
 
-## - Profit Optimization: Identifying low-margin customers/products helps reallocate resources.
+ - Profit Optimization: Identifying low-margin customers/products helps reallocate resources.
 
-## - Inventory Control: Forecast accuracy metrics reduce excess stock and costs.
+ - Inventory Control: Forecast accuracy metrics reduce excess stock and costs.
 
-## - Strategic Growth: Data-driven targeting of profitable customers and products.
+ - Strategic Growth: Data-driven targeting of profitable customers and products.
