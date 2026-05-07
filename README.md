@@ -1,6 +1,6 @@
 ## 📂 Download Business insight 360 File
 You can download the full `.pbix` project here:  
-[📥 Click to Download Business Insights 360.pbix](https://app.powerbi.com/view?r=eyJrIjoiMmJkNTU4ZTktMDY2Yi00ZDIzLWI5MzAtNjQ2MzQxYTdlZWQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[📥 Click to Download Business Insights 360.pbix](https://app.powerbi.com/view?r=eyJrIjoiNTZkZGI3NmEtMjA4Yy00ZDk4LWIzZDktMWQ1ZDk5NDZhZWYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 # Business-insight-360-
 A Power BI dashboard delivering a 360° view of 'AtliQ Hardwares’ performance across finance, sales, marketing, and supply chain. Consolidates scattered data into actionable insights, enabling faster, data-driven decisions and strategic growth.
 # 📊 Business Insights 360 – Power BI Dashboard
